@@ -41,6 +41,6 @@ Still in progress — HTML is mostly done, and I’m starting to work on the sty
 
 Coming soon.
 
-#Live Demo
+# Live Demo
 
 Not live yet — will be once everything’s in better shape.
